@@ -28,9 +28,11 @@ Si Python n'est pas installé, vous pouvez l'installer avec la commande suivante
 
 **sudo apt update  
 sudo apt install python3**
+
 Pour exécuter le script, utilisez la commande suivante dans le terminal :
 
 **sudo python3 backup.py**
+
 Suivez les instructions à l’écran pour entrer le chemin du répertoire que vous souhaitez compresser et le chemin où vous souhaitez enregistrer le fichier compressé.
 Conclusion
 
