@@ -24,6 +24,7 @@ Instructions pour l'Utilisation et le Lancement
 Assurez-vous que Python 3 est installé sur votre système Debian. Vous pouvez vérifier la version de Python en exécutant la commande suivante dans un terminal :
 
 **python3 --version**
+
 Si Python n'est pas installé, vous pouvez l'installer avec la commande suivante :
 
 **sudo apt update  
