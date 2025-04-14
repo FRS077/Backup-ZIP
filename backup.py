@@ -1,6 +1,6 @@
 # ---------------------------------------
 # Script de sauvegarde et compression ZIP  
-# Auteur : Romuald FRS077  
+# Auteur : Romuald FRS077 - FRA485 
 # Email : fra485@orange.fr  
 # ---------------------------------------
 
